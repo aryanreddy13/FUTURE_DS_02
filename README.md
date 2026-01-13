@@ -106,15 +106,3 @@ strategies through data-driven insights.
 3.  Refresh data if needed\
 4.  Explore using filters
 
-------------------------------------------------------------------------
-
-## 👤 Author
-
-Aryan Reddy\
-BTech CSE (Data Science)
-
-------------------------------------------------------------------------
-
-## 📎 License
-
-For educational and portfolio use only.
